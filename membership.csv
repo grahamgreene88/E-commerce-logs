@@ -1,114 +1,114 @@
 country,membership,website_purchase,pct_visits
-Albania,Normal,646,0.349567099567
 Albania,Not Logged In,17,0.009199134199
 Albania,Premium,1185,0.641233766233
-Antigua and Barbuda,Premium,1527,0.673280423280
+Albania,Normal,646,0.349567099567
 Antigua and Barbuda,Normal,721,0.317901234567
+Antigua and Barbuda,Premium,1527,0.673280423280
 Antigua and Barbuda,Not Logged In,20,0.008818342151
-Argentina,Not Logged In,24,0.009220130618
 Argentina,Normal,967,0.371494429504
 Argentina,Premium,1612,0.619285439877
+Argentina,Not Logged In,24,0.009220130618
 Armenia,Not Logged In,20,0.009587727708
 Armenia,Normal,678,0.325023969319
 Armenia,Premium,1388,0.665388302972
+Aruba,Premium,763,0.648809523809
 Aruba,Not Logged In,4,0.003401360544
 Aruba,Normal,409,0.347789115646
-Aruba,Premium,763,0.648809523809
+Australia,Normal,795,0.315476190476
 Australia,Premium,1684,0.668253968253
 Australia,Not Logged In,41,0.016269841269
-Australia,Normal,795,0.315476190476
-Austria,Not Logged In,12,0.004487658937
 Austria,Premium,1827,0.683246073298
+Austria,Not Logged In,12,0.004487658937
 Austria,Normal,835,0.312266267763
-Azerbaijan,Normal,424,0.315476190476
-Azerbaijan,Premium,914,0.680059523809
 Azerbaijan,Not Logged In,6,0.004464285714
+Azerbaijan,Premium,914,0.680059523809
+Azerbaijan,Normal,424,0.315476190476
 Bahamas,Not Logged In,10,0.005175983436
 Bahamas,Normal,568,0.293995859213
 Bahamas,Premium,1354,0.700828157349
 Bahrain,Premium,1258,0.713151927437
-Bahrain,Normal,495,0.280612244897
 Bahrain,Not Logged In,11,0.006235827664
+Bahrain,Normal,495,0.280612244897
 Barbados,Premium,1402,0.667937112910
 Barbados,Normal,687,0.327298713673
 Barbados,Not Logged In,10,0.004764173415
-Belarus,Normal,546,0.309699376063
 Belarus,Not Logged In,14,0.007941009642
+Belarus,Normal,546,0.309699376063
 Belarus,Premium,1203,0.682359614293
 Belgium,Normal,816,0.313364055299
-Belgium,Not Logged In,30,0.011520737327
 Belgium,Premium,1758,0.675115207373
-Belize,Not Logged In,6,0.002551020408
+Belgium,Not Logged In,30,0.011520737327
 Belize,Normal,814,0.346088435374
+Belize,Not Logged In,6,0.002551020408
 Belize,Premium,1532,0.651360544217
-Bosnia and Herzegovina,Normal,44,0.261904761904
-Bosnia and Herzegovina,Premium,122,0.726190476190
 Bosnia and Herzegovina,Not Logged In,2,0.011904761904
-Brazil,Not Logged In,16,0.006144393241
+Bosnia and Herzegovina,Premium,122,0.726190476190
+Bosnia and Herzegovina,Normal,44,0.261904761904
 Brazil,Normal,931,0.357526881720
+Brazil,Not Logged In,16,0.006144393241
 Brazil,Premium,1657,0.636328725038
 Bulgaria,Not Logged In,34,0.013492063492
 Bulgaria,Normal,914,0.362698412698
 Bulgaria,Premium,1572,0.623809523809
 Cabo Verde,Normal,27,0.321428571428
 Cabo Verde,Premium,57,0.678571428571
-Canada,Premium,1554,0.637931034482
 Canada,Normal,854,0.350574712643
 Canada,Not Logged In,28,0.011494252873
-Chile,Premium,1498,0.575268817204
-Chile,Not Logged In,249,0.095622119815
+Canada,Premium,1554,0.637931034482
 Chile,Normal,857,0.329109062980
+Chile,Not Logged In,249,0.095622119815
+Chile,Premium,1498,0.575268817204
 Colombia,Not Logged In,579,0.230310262529
-Colombia,Premium,1087,0.432378679395
 Colombia,Normal,848,0.337311058074
+Colombia,Premium,1087,0.432378679395
+Costa Rica,Not Logged In,522,0.241666666666
 Costa Rica,Premium,947,0.438425925925
 Costa Rica,Normal,691,0.319907407407
-Costa Rica,Not Logged In,522,0.241666666666
 Croatia,Normal,429,0.272900763358
-Croatia,Not Logged In,378,0.240458015267
 Croatia,Premium,765,0.486641221374
+Croatia,Not Logged In,378,0.240458015267
+Cuba,Not Logged In,350,0.202546296296
 Cuba,Premium,926,0.535879629629
 Cuba,Normal,452,0.261574074074
-Cuba,Not Logged In,350,0.202546296296
 Cyprus,Premium,517,0.484536082474
-Cyprus,Not Logged In,258,0.241799437675
 Cyprus,Normal,292,0.273664479850
+Cyprus,Not Logged In,258,0.241799437675
 Czech Republic,Normal,509,0.263457556935
 Czech Republic,Not Logged In,513,0.265527950310
 Czech Republic,Premium,910,0.471014492753
 Denmark,Normal,370,0.233585858585
 Denmark,Not Logged In,390,0.246212121212
 Denmark,Premium,824,0.520202020202
-Dominica,Normal,25,0.347222222222
-Dominica,Not Logged In,21,0.291666666666
 Dominica,Premium,26,0.361111111111
-Ecuador,Normal,690,0.309139784946
+Dominica,Not Logged In,21,0.291666666666
+Dominica,Normal,25,0.347222222222
 Ecuador,Premium,1152,0.516129032258
 Ecuador,Not Logged In,390,0.174731182795
-El Salvador,Premium,870,0.503472222222
+Ecuador,Normal,690,0.309139784946
 El Salvador,Not Logged In,299,0.173032407407
+El Salvador,Premium,870,0.503472222222
 El Salvador,Normal,559,0.323495370370
 Estonia,Normal,358,0.236772486772
 Estonia,Premium,683,0.451719576719
 Estonia,Not Logged In,471,0.311507936507
 Fiji,Normal,212,0.267676767676
-Fiji,Not Logged In,264,0.333333333333
 Fiji,Premium,316,0.398989898989
+Fiji,Not Logged In,264,0.333333333333
+Finland,Not Logged In,507,0.242816091954
 Finland,Normal,550,0.263409961685
 Finland,Premium,1031,0.493773946360
-Finland,Not Logged In,507,0.242816091954
 France,Not Logged In,406,0.187962962962
 France,Normal,669,0.309722222222
 France,Premium,1085,0.502314814814
 Georgia,Not Logged In,223,0.140782828282
-Georgia,Normal,460,0.290404040404
 Georgia,Premium,901,0.568813131313
+Georgia,Normal,460,0.290404040404
+Germany,Premium,982,0.524572649572
 Germany,Normal,625,0.333867521367
 Germany,Not Logged In,265,0.141559829059
-Germany,Premium,982,0.524572649572
-Greece,Normal,711,0.318548387096
-Greece,Premium,1105,0.495071684587
 Greece,Not Logged In,416,0.186379928315
+Greece,Premium,1105,0.495071684587
+Greece,Normal,711,0.318548387096
 Grenada,Normal,602,0.323655913978
 Grenada,Not Logged In,289,0.155376344086
 Grenada,Premium,969,0.520967741935
@@ -116,180 +116,177 @@ Guatemala,Premium,1198,0.554629629629
 Guatemala,Not Logged In,295,0.136574074074
 Guatemala,Normal,667,0.308796296296
 Guyana,Normal,555,0.308504724847
-Guyana,Premium,998,0.554752640355
 Guyana,Not Logged In,246,0.136742634797
-Hungary,Not Logged In,370,0.198924731182
+Guyana,Premium,998,0.554752640355
 Hungary,Premium,1078,0.579569892473
+Hungary,Not Logged In,370,0.198924731182
 Hungary,Normal,412,0.221505376344
 Iceland,Not Logged In,680,0.296684118673
-Iceland,Premium,1190,0.519197207678
 Iceland,Normal,422,0.184118673647
+Iceland,Premium,1190,0.519197207678
+Ireland,Normal,429,0.198611111111
 Ireland,Premium,1128,0.522222222222
 Ireland,Not Logged In,603,0.279166666666
-Ireland,Normal,429,0.198611111111
+Israel,Premium,1225,0.548835125448
 Israel,Not Logged In,587,0.262992831541
 Israel,Normal,420,0.188172043010
-Israel,Premium,1225,0.548835125448
-Italy,Normal,397,0.177867383512
 Italy,Not Logged In,709,0.317652329749
 Italy,Premium,1126,0.504480286738
+Italy,Normal,397,0.177867383512
 Jamaica,Not Logged In,413,0.337418300653
-Jamaica,Premium,569,0.464869281045
 Jamaica,Normal,242,0.197712418300
-Japan,Premium,1048,0.469323779668
+Jamaica,Premium,569,0.464869281045
 Japan,Not Logged In,737,0.330049261083
 Japan,Normal,448,0.200626959247
-Kazakhstan,Premium,1088,0.581196581196
-Kazakhstan,Not Logged In,378,0.201923076923
+Japan,Premium,1048,0.469323779668
 Kazakhstan,Normal,406,0.216880341880
-Kiribati,Not Logged In,133,0.167929292929
-Kiribati,Normal,198,0.250000000000
+Kazakhstan,Not Logged In,378,0.201923076923
+Kazakhstan,Premium,1088,0.581196581196
 Kiribati,Premium,461,0.582070707070
-Kuwait,Premium,1070,0.594444444444
+Kiribati,Normal,198,0.250000000000
+Kiribati,Not Logged In,133,0.167929292929
 Kuwait,Not Logged In,270,0.150000000000
 Kuwait,Normal,460,0.255555555555
-Kyrgyzstan,Normal,446,0.238247863247
+Kuwait,Premium,1070,0.594444444444
 Kyrgyzstan,Not Logged In,321,0.171474358974
+Kyrgyzstan,Normal,446,0.238247863247
 Kyrgyzstan,Premium,1105,0.590277777777
 Latvia,Normal,387,0.256121773659
-Latvia,Not Logged In,193,0.127729980145
 Latvia,Premium,931,0.616148246194
+Latvia,Not Logged In,193,0.127729980145
 Lithuania,Premium,934,0.594147582697
-Lithuania,Normal,386,0.245547073791
 Lithuania,Not Logged In,252,0.160305343511
-Luxembourg,Premium,1359,0.608870967741
+Lithuania,Normal,386,0.245547073791
 Luxembourg,Not Logged In,308,0.137992831541
 Luxembourg,Normal,565,0.253136200716
-Macau,Normal,12,0.166666666666
+Luxembourg,Premium,1359,0.608870967741
 Macau,Premium,48,0.666666666666
 Macau,Not Logged In,12,0.166666666666
+Macau,Normal,12,0.166666666666
 Maldives,Normal,126,0.175000000000
-Maldives,Not Logged In,204,0.283333333333
 Maldives,Premium,390,0.541666666666
+Maldives,Not Logged In,204,0.283333333333
 Malta,Not Logged In,417,0.186827956989
 Malta,Normal,528,0.236559139784
 Malta,Premium,1287,0.576612903225
 Mauritius,Premium,1455,0.634816753926
-Mauritius,Normal,621,0.270942408376
 Mauritius,Not Logged In,216,0.094240837696
+Mauritius,Normal,621,0.270942408376
 Mexico,Not Logged In,112,0.050179211469
-Mexico,Premium,1412,0.632616487455
 Mexico,Normal,708,0.317204301075
+Mexico,Premium,1412,0.632616487455
 Mongolia,Normal,10,0.166666666666
 Mongolia,Premium,50,0.833333333333
 Montenegro,Premium,552,0.766666666666
 Montenegro,Normal,168,0.233333333333
+Netherlands,Normal,600,0.261780104712
 Netherlands,Not Logged In,236,0.102966841186
 Netherlands,Premium,1456,0.635253054101
-Netherlands,Normal,600,0.261780104712
 New Zealand,Normal,570,0.272988505747
-New Zealand,Premium,1304,0.624521072796
 New Zealand,Not Logged In,214,0.102490421455
-Nicaragua,Premium,308,0.712962962962
+New Zealand,Premium,1304,0.624521072796
 Nicaragua,Not Logged In,6,0.013888888888
 Nicaragua,Normal,118,0.273148148148
+Nicaragua,Premium,308,0.712962962962
 Norway,Not Logged In,60,0.027777777777
 Norway,Premium,1488,0.688888888888
 Norway,Normal,612,0.283333333333
-Oman,Premium,160,0.740740740740
 Oman,Normal,44,0.203703703703
+Oman,Premium,160,0.740740740740
 Oman,Not Logged In,12,0.055555555555
-Panama,Premium,1267,0.703888888888
 Panama,Not Logged In,134,0.074444444444
+Panama,Premium,1267,0.703888888888
 Panama,Normal,399,0.221666666666
+Paraguay,Not Logged In,96,0.049382716049
 Paraguay,Normal,461,0.237139917695
 Paraguay,Premium,1387,0.713477366255
-Paraguay,Not Logged In,96,0.049382716049
-Philippines,Normal,227,0.210379981464
 Philippines,Not Logged In,96,0.088971269694
 Philippines,Premium,756,0.700648748841
+Philippines,Normal,227,0.210379981464
+Poland,Premium,1286,0.744212962962
 Poland,Normal,414,0.239583333333
 Poland,Not Logged In,28,0.016203703703
-Poland,Premium,1286,0.744212962962
-Portugal,Normal,543,0.279320987654
-Portugal,Premium,1385,0.712448559670
 Portugal,Not Logged In,16,0.008230452674
+Portugal,Premium,1385,0.712448559670
+Portugal,Normal,543,0.279320987654
 Puerto Rico,Not Logged In,6,0.002688172043
-Puerto Rico,Normal,601,0.269265232974
 Puerto Rico,Premium,1625,0.728046594982
-Qatar,Normal,315,0.294943820224
+Puerto Rico,Normal,601,0.269265232974
 Qatar,Premium,749,0.701310861423
+Qatar,Normal,315,0.294943820224
 Qatar,Not Logged In,4,0.003745318352
 Republic of Korea,Premium,1530,0.685483870967
 Republic of Korea,Normal,676,0.302867383512
 Republic of Korea,Not Logged In,26,0.011648745519
-Romania,Normal,534,0.266467065868
 Romania,Premium,1442,0.719560878243
+Romania,Normal,534,0.266467065868
 Romania,Not Logged In,28,0.013972055888
-Russia,Not Logged In,1,0.125000000000
-Russia,Premium,5,0.625000000000
-Russia,Normal,2,0.250000000000
-Russian Federation,Normal,606,0.311728395061
-Russian Federation,Not Logged In,10,0.005144032921
-Russian Federation,Premium,1328,0.683127572016
+Russia,Premium,1333,0.682889344262
+Russia,Not Logged In,11,0.005635245901
+Russia,Normal,608,0.311475409836
 Saint Kitts and Nevis,Normal,58,0.268518518518
-Saint Kitts and Nevis,Not Logged In,2,0.009259259259
 Saint Kitts and Nevis,Premium,156,0.722222222222
-Saint Lucia,Normal,615,0.305059523809
+Saint Kitts and Nevis,Not Logged In,2,0.009259259259
 Saint Lucia,Premium,1381,0.685019841269
 Saint Lucia,Not Logged In,20,0.009920634920
-Saint Vincent and Grenadines,Premium,1241,0.689444444444
+Saint Lucia,Normal,615,0.305059523809
 Saint Vincent and Grenadines,Not Logged In,32,0.017777777777
 Saint Vincent and Grenadines,Normal,527,0.292777777777
-San Marino,Normal,66,0.305555555555
+Saint Vincent and Grenadines,Premium,1241,0.689444444444
 San Marino,Premium,148,0.685185185185
+San Marino,Normal,66,0.305555555555
 San Marino,Not Logged In,2,0.009259259259
 Serbia,Not Logged In,8,0.006172839506
-Serbia,Premium,861,0.664351851851
 Serbia,Normal,427,0.329475308641
-Seychelles,Not Logged In,8,0.006172839506
+Serbia,Premium,861,0.664351851851
 Seychelles,Premium,808,0.623456790123
+Seychelles,Not Logged In,8,0.006172839506
 Seychelles,Normal,480,0.370370370370
-Singapore,Normal,681,0.305107526881
-Singapore,Premium,1535,0.687724014336
 Singapore,Not Logged In,16,0.007168458781
-Slovakia,Normal,481,0.303661616161
+Singapore,Premium,1535,0.687724014336
+Singapore,Normal,681,0.305107526881
 Slovakia,Not Logged In,12,0.007575757575
+Slovakia,Normal,481,0.303661616161
 Slovakia,Premium,1091,0.688762626262
+Slovenia,Not Logged In,10,0.006618133686
 Slovenia,Premium,1109,0.733951025810
 Slovenia,Normal,392,0.259430840502
-Slovenia,Not Logged In,10,0.006618133686
-South Africa,Premium,1099,0.763194444444
 South Africa,Normal,341,0.236805555555
-Spain,Premium,1609,0.720878136200
+South Africa,Premium,1099,0.763194444444
 Spain,Normal,599,0.268369175627
+Spain,Premium,1609,0.720878136200
 Spain,Not Logged In,24,0.010752688172
-Sri Lanka,Not Logged In,10,0.012626262626
-Sri Lanka,Premium,613,0.773989898989
 Sri Lanka,Normal,169,0.213383838383
+Sri Lanka,Premium,613,0.773989898989
+Sri Lanka,Not Logged In,10,0.012626262626
+Suriname,Premium,1440,0.714285714285
 Suriname,Normal,552,0.273809523809
 Suriname,Not Logged In,24,0.011904761904
-Suriname,Premium,1440,0.714285714285
 Sweden,Not Logged In,16,0.007448789571
 Sweden,Premium,1608,0.748603351955
 Sweden,Normal,524,0.243947858472
+Switzerland,Premium,1138,0.752645502645
 Switzerland,Normal,370,0.244708994708
 Switzerland,Not Logged In,4,0.002645502645
-Switzerland,Premium,1138,0.752645502645
 Thailand,Normal,516,0.257485029940
 Thailand,Premium,1472,0.734530938123
 Thailand,Not Logged In,16,0.007984031936
+Trinidad and Tobago,Premium,1365,0.702160493827
 Trinidad and Tobago,Not Logged In,10,0.005144032921
 Trinidad and Tobago,Normal,569,0.292695473251
-Trinidad and Tobago,Premium,1365,0.702160493827
 Turkey,Normal,133,0.263888888888
-Turkey,Not Logged In,2,0.003968253968
 Turkey,Premium,369,0.732142857142
-Turkmenistan,Normal,653,0.312739463601
-Turkmenistan,Not Logged In,20,0.009578544061
+Turkey,Not Logged In,2,0.003968253968
 Turkmenistan,Premium,1415,0.677681992337
+Turkmenistan,Not Logged In,20,0.009578544061
+Turkmenistan,Normal,653,0.312739463601
+Ukraine,Normal,686,0.340277777777
 Ukraine,Premium,1312,0.650793650793
 Ukraine,Not Logged In,18,0.008928571428
-Ukraine,Normal,686,0.340277777777
 United Arab Emirates,Normal,134,0.310185185185
 United Arab Emirates,Premium,298,0.689814814814
-United Kingdom,Not Logged In,18,0.008064516129
 United Kingdom,Premium,1480,0.663082437275
+United Kingdom,Not Logged In,18,0.008064516129
 United Kingdom,Normal,734,0.328853046594
 United States,Normal,789,0.353653070372
 United States,Premium,1422,0.637382339757
@@ -297,6 +294,6 @@ United States,Not Logged In,20,0.008964589870
 Uruguay,Not Logged In,32,0.015873015873
 Uruguay,Premium,1248,0.619047619047
 Uruguay,Normal,736,0.365079365079
+Uzbekistan,Premium,986,0.622474747474
 Uzbekistan,Not Logged In,38,0.023989898989
 Uzbekistan,Normal,560,0.353535353535
-Uzbekistan,Premium,986,0.622474747474

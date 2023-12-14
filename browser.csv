@@ -1,701 +1,696 @@
 country,Accessed_From,purchases
-Albania,Safari,180
+Albania,Microsoft Edge,171
 Albania,Android App,392
+Albania,Chrome,299
+Albania,Safari,180
+Albania,IOS App,233
 Albania,Others,281
 Albania,Mozilla Firefox,292
-Albania,Microsoft Edge,171
-Albania,IOS App,233
-Albania,Chrome,299
 Antigua and Barbuda,IOS App,289
-Antigua and Barbuda,Safari,210
-Antigua and Barbuda,Chrome,401
-Antigua and Barbuda,Others,336
-Antigua and Barbuda,Mozilla Firefox,357
 Antigua and Barbuda,Microsoft Edge,189
+Antigua and Barbuda,Others,336
+Antigua and Barbuda,Chrome,401
+Antigua and Barbuda,Safari,210
 Antigua and Barbuda,Android App,486
-Argentina,Others,407
+Antigua and Barbuda,Mozilla Firefox,357
+Argentina,Android App,575
 Argentina,IOS App,336
 Argentina,Chrome,429
+Argentina,Others,407
 Argentina,Safari,240
 Argentina,Microsoft Edge,216
-Argentina,Android App,575
 Argentina,Mozilla Firefox,400
-Armenia,IOS App,250
 Armenia,Others,314
 Armenia,Safari,210
-Armenia,Chrome,304
-Armenia,Android App,487
 Armenia,Microsoft Edge,189
 Armenia,Mozilla Firefox,332
-Aruba,Mozilla Firefox,164
-Aruba,Safari,110
-Aruba,Android App,234
+Armenia,IOS App,250
+Armenia,Chrome,304
+Armenia,Android App,487
 Aruba,Chrome,228
-Aruba,Others,186
 Aruba,IOS App,155
 Aruba,Microsoft Edge,99
-Australia,Chrome,415
+Aruba,Android App,234
+Aruba,Safari,110
+Aruba,Mozilla Firefox,164
+Aruba,Others,186
+Australia,IOS App,300
+Australia,Safari,240
 Australia,Android App,575
 Australia,Mozilla Firefox,400
+Australia,Chrome,415
 Australia,Microsoft Edge,216
 Australia,Others,374
-Australia,Safari,240
-Australia,IOS App,300
-Austria,IOS App,346
 Austria,Chrome,418
 Austria,Mozilla Firefox,408
 Austria,Android App,576
-Austria,Others,421
+Austria,IOS App,346
 Austria,Safari,262
 Austria,Microsoft Edge,243
-Azerbaijan,IOS App,167
+Austria,Others,421
+Azerbaijan,Chrome,238
 Azerbaijan,Safari,128
-Azerbaijan,Mozilla Firefox,200
+Azerbaijan,IOS App,167
+Azerbaijan,Others,205
 Azerbaijan,Microsoft Edge,108
 Azerbaijan,Android App,298
-Azerbaijan,Others,205
-Azerbaijan,Chrome,238
+Azerbaijan,Mozilla Firefox,200
+Bahamas,Microsoft Edge,177
 Bahamas,Android App,432
-Bahamas,Safari,186
-Bahamas,Others,292
+Bahamas,Mozilla Firefox,306
 Bahamas,Chrome,296
 Bahamas,IOS App,243
-Bahamas,Microsoft Edge,177
-Bahamas,Mozilla Firefox,306
+Bahamas,Others,292
+Bahamas,Safari,186
+Bahrain,Android App,373
+Bahrain,Mozilla Firefox,270
+Bahrain,Others,284
+Bahrain,Microsoft Edge,147
+Bahrain,Safari,164
 Bahrain,IOS App,227
 Bahrain,Chrome,299
-Bahrain,Microsoft Edge,147
-Bahrain,Android App,373
-Bahrain,Safari,164
-Bahrain,Others,284
-Bahrain,Mozilla Firefox,270
-Barbados,Android App,482
-Barbados,Safari,211
 Barbados,Microsoft Edge,180
 Barbados,Others,311
+Barbados,Safari,211
+Barbados,Android App,482
+Barbados,Mozilla Firefox,320
 Barbados,Chrome,343
 Barbados,IOS App,252
-Barbados,Mozilla Firefox,320
 Belarus,Android App,410
-Belarus,Others,279
 Belarus,IOS App,220
-Belarus,Safari,170
-Belarus,Chrome,256
 Belarus,Microsoft Edge,153
 Belarus,Mozilla Firefox,275
+Belarus,Chrome,256
+Belarus,Others,279
+Belarus,Safari,170
+Belgium,Others,394
 Belgium,Android App,556
+Belgium,Mozilla Firefox,396
+Belgium,Safari,250
+Belgium,IOS App,325
 Belgium,Microsoft Edge,225
 Belgium,Chrome,458
-Belgium,Others,394
-Belgium,Mozilla Firefox,396
-Belgium,IOS App,325
-Belgium,Safari,250
-Belize,Safari,222
-Belize,Mozilla Firefox,359
-Belize,Android App,523
-Belize,Chrome,371
-Belize,Microsoft Edge,207
 Belize,Others,376
+Belize,Android App,523
+Belize,Microsoft Edge,207
+Belize,Mozilla Firefox,359
 Belize,IOS App,294
+Belize,Chrome,371
+Belize,Safari,222
+Bosnia and Herzegovina,Android App,52
 Bosnia and Herzegovina,Safari,18
+Bosnia and Herzegovina,Mozilla Firefox,40
+Bosnia and Herzegovina,Others,15
 Bosnia and Herzegovina,IOS App,18
 Bosnia and Herzegovina,Microsoft Edge,9
-Bosnia and Herzegovina,Mozilla Firefox,40
-Bosnia and Herzegovina,Android App,52
-Bosnia and Herzegovina,Others,15
 Bosnia and Herzegovina,Chrome,16
-Brazil,Others,403
-Brazil,Android App,551
 Brazil,IOS App,331
-Brazil,Mozilla Firefox,385
+Brazil,Android App,551
 Brazil,Safari,249
-Brazil,Microsoft Edge,225
+Brazil,Mozilla Firefox,385
 Brazil,Chrome,460
-Bulgaria,Others,382
-Bulgaria,Mozilla Firefox,399
-Bulgaria,IOS App,306
-Bulgaria,Chrome,401
+Brazil,Microsoft Edge,225
+Brazil,Others,403
 Bulgaria,Android App,576
 Bulgaria,Safari,240
 Bulgaria,Microsoft Edge,216
-Cabo Verde,Microsoft Edge,12
-Cabo Verde,Chrome,14
-Cabo Verde,IOS App,28
+Bulgaria,Others,382
+Bulgaria,Mozilla Firefox,399
+Bulgaria,Chrome,401
+Bulgaria,IOS App,306
 Cabo Verde,Mozilla Firefox,12
 Cabo Verde,Others,18
-Canada,Others,376
+Cabo Verde,IOS App,28
+Cabo Verde,Chrome,14
+Cabo Verde,Microsoft Edge,12
 Canada,Safari,250
-Canada,IOS App,296
 Canada,Chrome,377
-Canada,Android App,552
-Canada,Microsoft Edge,213
 Canada,Mozilla Firefox,372
+Canada,IOS App,296
+Canada,Microsoft Edge,213
+Canada,Android App,552
+Canada,Others,376
 Chile,Android App,575
+Chile,Microsoft Edge,216
 Chile,Chrome,457
+Chile,Others,396
+Chile,Mozilla Firefox,400
 Chile,Safari,240
 Chile,IOS App,320
-Chile,Microsoft Edge,216
-Chile,Mozilla Firefox,400
-Chile,Others,396
-Colombia,Chrome,401
-Colombia,Android App,537
+Colombia,Mozilla Firefox,386
 Colombia,IOS App,326
 Colombia,Safari,240
-Colombia,Mozilla Firefox,386
 Colombia,Microsoft Edge,225
 Colombia,Others,399
+Colombia,Android App,537
+Colombia,Chrome,401
 Costa Rica,Microsoft Edge,180
-Costa Rica,Others,336
-Costa Rica,Android App,483
-Costa Rica,IOS App,270
 Costa Rica,Chrome,357
 Costa Rica,Safari,210
 Costa Rica,Mozilla Firefox,324
-Croatia,Chrome,255
-Croatia,Others,240
+Costa Rica,Android App,483
+Costa Rica,Others,336
+Costa Rica,IOS App,270
 Croatia,Mozilla Firefox,246
 Croatia,Safari,150
-Croatia,Microsoft Edge,138
 Croatia,IOS App,198
+Croatia,Chrome,255
+Croatia,Microsoft Edge,138
 Croatia,Android App,345
-Cuba,Mozilla Firefox,255
-Cuba,Others,270
+Croatia,Others,240
 Cuba,IOS App,198
 Cuba,Chrome,258
 Cuba,Safari,180
-Cuba,Android App,411
+Cuba,Mozilla Firefox,255
 Cuba,Microsoft Edge,156
+Cuba,Others,270
+Cuba,Android App,411
+Cyprus,Mozilla Firefox,171
 Cyprus,Microsoft Edge,84
 Cyprus,IOS App,150
-Cyprus,Others,162
-Cyprus,Chrome,200
 Cyprus,Safari,90
-Cyprus,Mozilla Firefox,171
 Cyprus,Android App,210
-Czech Republic,Android App,426
+Cyprus,Chrome,200
+Cyprus,Others,162
 Czech Republic,Chrome,306
 Czech Republic,IOS App,237
 Czech Republic,Microsoft Edge,180
+Czech Republic,Android App,426
 Czech Republic,Mozilla Firefox,306
 Czech Republic,Safari,189
 Czech Republic,Others,288
-Denmark,Microsoft Edge,135
 Denmark,Others,248
-Denmark,Safari,154
+Denmark,Microsoft Edge,135
 Denmark,Mozilla Firefox,240
+Denmark,Safari,154
+Denmark,Android App,357
 Denmark,IOS App,195
 Denmark,Chrome,255
-Denmark,Android App,357
 Dominica,Safari,15
 Dominica,Others,21
 Dominica,Android App,36
+Ecuador,Microsoft Edge,198
+Ecuador,Others,336
+Ecuador,IOS App,285
 Ecuador,Mozilla Firefox,351
 Ecuador,Chrome,360
 Ecuador,Android App,489
 Ecuador,Safari,213
-Ecuador,IOS App,285
-Ecuador,Microsoft Edge,198
-Ecuador,Others,336
 El Salvador,Others,257
 El Salvador,Chrome,304
-El Salvador,Microsoft Edge,153
-El Salvador,Android App,360
-El Salvador,Safari,159
 El Salvador,IOS App,222
+El Salvador,Safari,159
+El Salvador,Microsoft Edge,153
 El Salvador,Mozilla Firefox,273
+El Salvador,Android App,360
+Estonia,Android App,333
+Estonia,Others,240
+Estonia,Safari,141
+Estonia,Microsoft Edge,120
 Estonia,Chrome,255
 Estonia,IOS App,195
-Estonia,Safari,141
-Estonia,Android App,333
 Estonia,Mozilla Firefox,228
-Estonia,Others,240
-Estonia,Microsoft Edge,120
 Fiji,Others,126
-Fiji,IOS App,81
 Fiji,Microsoft Edge,75
+Fiji,IOS App,81
 Fiji,Chrome,105
-Fiji,Mozilla Firefox,111
 Fiji,Android App,204
 Fiji,Safari,90
-Finland,Chrome,354
+Fiji,Mozilla Firefox,111
 Finland,Android App,441
+Finland,Chrome,354
 Finland,Others,315
 Finland,Mozilla Firefox,333
 Finland,Safari,192
-Finland,IOS App,270
 Finland,Microsoft Edge,183
-France,Chrome,357
-France,Safari,207
-France,Mozilla Firefox,336
-France,Android App,471
+Finland,IOS App,270
 France,Microsoft Edge,189
-France,Others,327
+France,Chrome,357
+France,Mozilla Firefox,336
 France,IOS App,273
-Georgia,Chrome,255
-Georgia,Android App,357
-Georgia,IOS App,195
+France,Others,327
+France,Safari,207
+France,Android App,471
 Georgia,Others,249
-Georgia,Safari,153
-Georgia,Microsoft Edge,135
+Georgia,Chrome,255
+Georgia,IOS App,195
 Georgia,Mozilla Firefox,240
-Germany,Mozilla Firefox,288
-Germany,Android App,414
-Germany,Microsoft Edge,162
+Georgia,Microsoft Edge,135
+Georgia,Safari,153
+Georgia,Android App,357
 Germany,IOS App,234
-Germany,Others,287
 Germany,Chrome,306
+Germany,Android App,414
+Germany,Others,287
+Germany,Mozilla Firefox,288
+Germany,Microsoft Edge,162
 Germany,Safari,181
+Greece,Android App,507
+Greece,Others,357
+Greece,Microsoft Edge,189
+Greece,Chrome,357
 Greece,IOS App,273
 Greece,Safari,213
 Greece,Mozilla Firefox,336
-Greece,Microsoft Edge,189
-Greece,Chrome,357
-Greece,Android App,507
-Greece,Others,357
 Grenada,Chrome,306
-Grenada,Others,285
-Grenada,Mozilla Firefox,288
 Grenada,Android App,408
+Grenada,Mozilla Firefox,288
+Grenada,Others,285
 Grenada,Microsoft Edge,162
 Grenada,IOS App,234
 Grenada,Safari,177
 Guatemala,IOS App,273
-Guatemala,Microsoft Edge,189
-Guatemala,Safari,210
-Guatemala,Mozilla Firefox,336
-Guatemala,Others,324
 Guatemala,Android App,471
 Guatemala,Chrome,357
-Guyana,Safari,168
-Guyana,Others,272
-Guyana,Microsoft Edge,153
-Guyana,Chrome,305
+Guatemala,Others,324
+Guatemala,Safari,210
+Guatemala,Mozilla Firefox,336
+Guatemala,Microsoft Edge,189
 Guyana,Android App,384
+Guyana,Microsoft Edge,153
+Guyana,Safari,168
 Guyana,IOS App,234
+Guyana,Chrome,305
 Guyana,Mozilla Firefox,283
+Guyana,Others,272
+Hungary,Microsoft Edge,156
+Hungary,Safari,180
 Hungary,Others,288
 Hungary,Android App,414
-Hungary,Microsoft Edge,156
 Hungary,Mozilla Firefox,282
-Hungary,Safari,180
-Hungary,IOS App,234
 Hungary,Chrome,306
-Iceland,Mozilla Firefox,348
-Iceland,Microsoft Edge,204
-Iceland,Others,363
-Iceland,Chrome,357
+Hungary,IOS App,234
 Iceland,Safari,222
-Iceland,IOS App,273
+Iceland,Microsoft Edge,204
 Iceland,Android App,525
-Ireland,Safari,210
-Ireland,IOS App,273
+Iceland,Chrome,357
+Iceland,Mozilla Firefox,348
+Iceland,Others,363
+Iceland,IOS App,273
+Ireland,Others,324
 Ireland,Microsoft Edge,189
+Ireland,Safari,210
+Ireland,Mozilla Firefox,336
 Ireland,Android App,471
 Ireland,Chrome,357
-Ireland,Mozilla Firefox,336
-Ireland,Others,324
-Israel,IOS App,273
+Ireland,IOS App,273
 Israel,Safari,219
-Israel,Others,350
-Israel,Chrome,358
-Israel,Mozilla Firefox,336
 Israel,Android App,506
 Israel,Microsoft Edge,190
-Italy,Microsoft Edge,198
+Israel,Mozilla Firefox,336
+Israel,Chrome,358
+Israel,IOS App,273
+Israel,Others,350
 Italy,Others,336
-Italy,Android App,494
-Italy,Chrome,360
-Italy,IOS App,279
+Italy,Microsoft Edge,198
 Italy,Safari,220
+Italy,Android App,494
+Italy,IOS App,279
+Italy,Chrome,360
 Italy,Mozilla Firefox,345
-Jamaica,IOS App,153
-Jamaica,Android App,276
-Jamaica,Chrome,201
-Jamaica,Mozilla Firefox,183
-Jamaica,Safari,120
-Jamaica,Microsoft Edge,99
 Jamaica,Others,192
+Jamaica,Mozilla Firefox,183
+Jamaica,Microsoft Edge,99
+Jamaica,Chrome,201
+Jamaica,IOS App,153
+Jamaica,Safari,120
+Jamaica,Android App,276
 Japan,Chrome,360
-Japan,Others,337
 Japan,IOS App,288
 Japan,Android App,483
+Japan,Safari,210
 Japan,Mozilla Firefox,357
 Japan,Microsoft Edge,198
-Japan,Safari,210
+Japan,Others,337
+Kazakhstan,Safari,181
 Kazakhstan,Mozilla Firefox,288
+Kazakhstan,Chrome,305
+Kazakhstan,Others,288
 Kazakhstan,Microsoft Edge,162
 Kazakhstan,Android App,414
 Kazakhstan,IOS App,234
-Kazakhstan,Others,288
-Kazakhstan,Chrome,305
-Kazakhstan,Safari,181
-Kiribati,Android App,159
+Kiribati,Chrome,150
+Kiribati,Mozilla Firefox,123
 Kiribati,Others,117
 Kiribati,IOS App,99
-Kiribati,Microsoft Edge,72
-Kiribati,Mozilla Firefox,123
-Kiribati,Chrome,150
 Kiribati,Safari,72
-Kuwait,IOS App,231
+Kiribati,Microsoft Edge,72
+Kiribati,Android App,159
 Kuwait,Others,285
 Kuwait,Safari,168
-Kuwait,Chrome,306
 Kuwait,Microsoft Edge,144
-Kuwait,Android App,396
 Kuwait,Mozilla Firefox,270
-Kyrgyzstan,Android App,412
-Kyrgyzstan,Others,289
-Kyrgyzstan,Microsoft Edge,162
-Kyrgyzstan,Chrome,305
-Kyrgyzstan,Safari,181
+Kuwait,IOS App,231
+Kuwait,Android App,396
+Kuwait,Chrome,306
 Kyrgyzstan,Mozilla Firefox,288
+Kyrgyzstan,Chrome,305
+Kyrgyzstan,Others,289
+Kyrgyzstan,Android App,412
+Kyrgyzstan,Safari,181
 Kyrgyzstan,IOS App,235
-Latvia,Mozilla Firefox,238
-Latvia,Microsoft Edge,135
+Kyrgyzstan,Microsoft Edge,162
 Latvia,IOS App,177
-Latvia,Others,223
-Latvia,Android App,345
-Latvia,Safari,150
+Latvia,Mozilla Firefox,238
 Latvia,Chrome,243
-Lithuania,Chrome,267
-Lithuania,IOS App,195
+Latvia,Safari,150
+Latvia,Android App,345
+Latvia,Others,223
+Latvia,Microsoft Edge,135
 Lithuania,Others,240
-Lithuania,Safari,150
+Lithuania,Android App,345
 Lithuania,Microsoft Edge,135
 Lithuania,Mozilla Firefox,240
-Lithuania,Android App,345
+Lithuania,Safari,150
+Lithuania,IOS App,195
+Lithuania,Chrome,267
 Luxembourg,Chrome,357
-Luxembourg,Microsoft Edge,192
+Luxembourg,Android App,483
 Luxembourg,Mozilla Firefox,342
 Luxembourg,IOS App,294
+Luxembourg,Microsoft Edge,192
 Luxembourg,Safari,210
 Luxembourg,Others,354
-Luxembourg,Android App,483
 Macau,Android App,24
-Macau,Others,9
 Macau,Mozilla Firefox,12
 Macau,Microsoft Edge,15
+Macau,Others,9
 Macau,Safari,12
-Maldives,Safari,78
-Maldives,Android App,180
 Maldives,Microsoft Edge,60
-Maldives,Others,117
-Maldives,Mozilla Firefox,99
 Maldives,IOS App,81
+Maldives,Mozilla Firefox,99
 Maldives,Chrome,105
+Maldives,Android App,180
+Maldives,Others,117
+Maldives,Safari,78
 Malta,Chrome,362
 Malta,Others,338
-Malta,Microsoft Edge,192
 Malta,IOS App,288
-Malta,Safari,210
-Malta,Android App,481
+Malta,Microsoft Edge,192
 Malta,Mozilla Firefox,361
+Malta,Android App,481
+Malta,Safari,210
+Mauritius,Mozilla Firefox,351
 Mauritius,Chrome,401
+Mauritius,Android App,486
+Mauritius,Safari,209
+Mauritius,Microsoft Edge,197
 Mauritius,Others,354
 Mauritius,IOS App,294
-Mauritius,Safari,209
-Mauritius,Android App,486
-Mauritius,Mozilla Firefox,351
-Mauritius,Microsoft Edge,197
 Mexico,Chrome,357
+Mexico,Safari,222
 Mexico,IOS App,273
 Mexico,Microsoft Edge,198
-Mexico,Mozilla Firefox,342
 Mexico,Android App,503
+Mexico,Mozilla Firefox,342
 Mexico,Others,337
-Mexico,Safari,222
 Mongolia,Safari,3
-Mongolia,Android App,30
 Mongolia,Others,27
+Mongolia,Android App,30
+Montenegro,Mozilla Firefox,123
 Montenegro,Safari,75
 Montenegro,Chrome,111
 Montenegro,IOS App,96
-Montenegro,Microsoft Edge,64
-Montenegro,Others,96
 Montenegro,Android App,155
-Montenegro,Mozilla Firefox,123
-Netherlands,Safari,210
+Montenegro,Others,96
+Montenegro,Microsoft Edge,64
+Netherlands,Chrome,399
+Netherlands,IOS App,294
 Netherlands,Microsoft Edge,198
+Netherlands,Safari,210
 Netherlands,Android App,486
 Netherlands,Others,354
-Netherlands,IOS App,294
-Netherlands,Chrome,399
 Netherlands,Mozilla Firefox,351
-New Zealand,IOS App,252
-New Zealand,Others,318
 New Zealand,Chrome,322
-New Zealand,Safari,210
-New Zealand,Android App,483
-New Zealand,Mozilla Firefox,324
 New Zealand,Microsoft Edge,179
-Nicaragua,Safari,33
+New Zealand,Android App,483
+New Zealand,Others,318
+New Zealand,Mozilla Firefox,324
+New Zealand,Safari,210
+New Zealand,IOS App,252
+Nicaragua,Others,66
+Nicaragua,Chrome,87
+Nicaragua,IOS App,60
 Nicaragua,Mozilla Firefox,66
 Nicaragua,Microsoft Edge,45
-Nicaragua,IOS App,60
-Nicaragua,Chrome,87
-Nicaragua,Others,66
+Nicaragua,Safari,33
 Nicaragua,Android App,75
-Norway,Mozilla Firefox,330
-Norway,Microsoft Edge,180
-Norway,IOS App,273
 Norway,Chrome,359
-Norway,Others,335
-Norway,Android App,476
 Norway,Safari,207
+Norway,Android App,476
+Norway,Microsoft Edge,180
+Norway,Others,335
+Norway,Mozilla Firefox,330
+Norway,IOS App,273
 Oman,Others,30
-Oman,IOS App,18
-Oman,Safari,30
 Oman,Android App,69
-Oman,Microsoft Edge,18
+Oman,Safari,30
+Oman,IOS App,18
 Oman,Chrome,15
 Oman,Mozilla Firefox,36
-Panama,Microsoft Edge,153
-Panama,Mozilla Firefox,259
-Panama,Chrome,291
+Oman,Microsoft Edge,18
 Panama,Safari,178
 Panama,Others,288
 Panama,Android App,412
+Panama,Mozilla Firefox,259
+Panama,Chrome,291
 Panama,IOS App,219
+Panama,Microsoft Edge,153
+Paraguay,Mozilla Firefox,318
+Paraguay,Microsoft Edge,171
+Paraguay,Android App,417
+Paraguay,Chrome,321
 Paraguay,Safari,180
 Paraguay,Others,288
-Paraguay,Android App,417
-Paraguay,Microsoft Edge,171
-Paraguay,Mozilla Firefox,318
-Paraguay,Chrome,321
 Paraguay,IOS App,249
 Philippines,Chrome,189
-Philippines,IOS App,138
-Philippines,Safari,102
-Philippines,Microsoft Edge,99
-Philippines,Android App,224
 Philippines,Others,166
+Philippines,Microsoft Edge,99
+Philippines,IOS App,138
 Philippines,Mozilla Firefox,161
-Poland,Safari,168
-Poland,Android App,396
-Poland,Chrome,270
+Philippines,Safari,102
+Philippines,Android App,224
 Poland,Others,267
 Poland,Microsoft Edge,144
+Poland,Android App,396
+Poland,Chrome,270
 Poland,Mozilla Firefox,270
+Poland,Safari,168
 Poland,IOS App,213
-Portugal,IOS App,251
-Portugal,Mozilla Firefox,289
-Portugal,Chrome,342
-Portugal,Microsoft Edge,162
-Portugal,Others,307
-Portugal,Android App,414
 Portugal,Safari,179
-Puerto Rico,Safari,214
-Puerto Rico,Chrome,357
-Puerto Rico,IOS App,276
-Puerto Rico,Mozilla Firefox,354
+Portugal,Microsoft Edge,162
+Portugal,Android App,414
+Portugal,IOS App,251
+Portugal,Chrome,342
+Portugal,Mozilla Firefox,289
+Portugal,Others,307
 Puerto Rico,Others,336
-Puerto Rico,Microsoft Edge,207
+Puerto Rico,Safari,214
+Puerto Rico,IOS App,276
+Puerto Rico,Chrome,357
+Puerto Rico,Mozilla Firefox,354
 Puerto Rico,Android App,488
-Qatar,Chrome,156
-Qatar,IOS App,120
+Puerto Rico,Microsoft Edge,207
+Qatar,Others,174
 Qatar,Android App,267
 Qatar,Safari,117
-Qatar,Others,174
-Qatar,Microsoft Edge,87
 Qatar,Mozilla Firefox,147
+Qatar,Microsoft Edge,87
+Qatar,Chrome,156
+Qatar,IOS App,120
 Republic of Korea,Android App,483
-Republic of Korea,Safari,209
-Republic of Korea,IOS App,288
-Republic of Korea,Microsoft Edge,192
-Republic of Korea,Mozilla Firefox,360
 Republic of Korea,Chrome,363
 Republic of Korea,Others,337
-Romania,Android App,422
-Romania,Chrome,349
-Romania,Others,306
+Republic of Korea,Safari,209
+Republic of Korea,Microsoft Edge,192
+Republic of Korea,Mozilla Firefox,360
+Republic of Korea,IOS App,288
 Romania,Safari,183
-Romania,IOS App,255
 Romania,Microsoft Edge,180
+Romania,Chrome,349
+Romania,Android App,422
+Romania,Others,306
 Romania,Mozilla Firefox,309
-Russia,Mozilla Firefox,1
-Russia,Chrome,2
-Russia,IOS App,1
-Russia,Others,1
-Russia,Android App,3
-Russian Federation,Safari,189
-Russian Federation,Android App,449
-Russian Federation,Chrome,306
-Russian Federation,Others,315
-Russian Federation,Mozilla Firefox,289
-Russian Federation,IOS App,234
-Russian Federation,Microsoft Edge,162
+Romania,IOS App,255
+Russia,Chrome,308
+Russia,Microsoft Edge,162
+Russia,Safari,189
+Russia,Mozilla Firefox,290
+Russia,Others,316
+Russia,IOS App,235
+Russia,Android App,452
 Saint Kitts and Nevis,Others,21
-Saint Kitts and Nevis,Chrome,51
-Saint Kitts and Nevis,IOS App,39
 Saint Kitts and Nevis,Microsoft Edge,18
 Saint Kitts and Nevis,Safari,18
 Saint Kitts and Nevis,Android App,27
 Saint Kitts and Nevis,Mozilla Firefox,42
-Saint Lucia,Safari,210
-Saint Lucia,Android App,480
-Saint Lucia,Chrome,306
-Saint Lucia,IOS App,237
-Saint Lucia,Others,318
+Saint Kitts and Nevis,Chrome,51
+Saint Kitts and Nevis,IOS App,39
 Saint Lucia,Microsoft Edge,171
 Saint Lucia,Mozilla Firefox,294
+Saint Lucia,Others,318
+Saint Lucia,Chrome,306
+Saint Lucia,Android App,480
+Saint Lucia,IOS App,237
+Saint Lucia,Safari,210
+Saint Vincent and Grenadines,Safari,162
+Saint Vincent and Grenadines,Chrome,306
 Saint Vincent and Grenadines,Android App,378
 Saint Vincent and Grenadines,Mozilla Firefox,288
 Saint Vincent and Grenadines,IOS App,231
 Saint Vincent and Grenadines,Microsoft Edge,162
-Saint Vincent and Grenadines,Chrome,306
 Saint Vincent and Grenadines,Others,273
-Saint Vincent and Grenadines,Safari,162
-San Marino,Mozilla Firefox,30
-San Marino,Others,33
+San Marino,Chrome,51
 San Marino,IOS App,36
+San Marino,Mozilla Firefox,30
 San Marino,Microsoft Edge,9
 San Marino,Safari,18
+San Marino,Others,33
 San Marino,Android App,39
-San Marino,Chrome,51
+Serbia,IOS App,160
+Serbia,Chrome,204
 Serbia,Android App,281
-Serbia,Safari,123
+Serbia,Microsoft Edge,126
 Serbia,Others,192
 Serbia,Mozilla Firefox,210
-Serbia,Microsoft Edge,126
-Serbia,Chrome,204
-Serbia,IOS App,160
+Serbia,Safari,123
 Seychelles,Android App,300
-Seychelles,Safari,129
-Seychelles,Chrome,204
-Seychelles,IOS App,156
-Seychelles,Microsoft Edge,108
-Seychelles,Mozilla Firefox,192
 Seychelles,Others,207
-Singapore,Safari,219
-Singapore,Chrome,356
-Singapore,Mozilla Firefox,336
-Singapore,Microsoft Edge,189
-Singapore,IOS App,274
+Seychelles,Mozilla Firefox,192
+Seychelles,Safari,129
+Seychelles,Microsoft Edge,108
+Seychelles,IOS App,156
+Seychelles,Chrome,204
 Singapore,Android App,507
+Singapore,IOS App,274
+Singapore,Mozilla Firefox,336
+Singapore,Chrome,356
+Singapore,Microsoft Edge,189
+Singapore,Safari,219
 Singapore,Others,351
+Slovakia,Android App,358
+Slovakia,Mozilla Firefox,240
+Slovakia,Microsoft Edge,135
 Slovakia,Chrome,254
 Slovakia,IOS App,198
-Slovakia,Android App,358
 Slovakia,Others,240
-Slovakia,Microsoft Edge,135
 Slovakia,Safari,159
-Slovakia,Mozilla Firefox,240
+Slovenia,Mozilla Firefox,240
+Slovenia,Others,238
 Slovenia,Microsoft Edge,135
+Slovenia,Chrome,254
+Slovenia,IOS App,191
 Slovenia,Safari,132
 Slovenia,Android App,321
-Slovenia,Others,238
-Slovenia,IOS App,191
-Slovenia,Chrome,254
-Slovenia,Mozilla Firefox,240
-South Africa,Android App,303
-South Africa,Safari,138
 South Africa,Others,214
+South Africa,Microsoft Edge,117
+South Africa,Safari,138
 South Africa,Mozilla Firefox,221
 South Africa,Chrome,255
-South Africa,Microsoft Edge,117
+South Africa,Android App,303
 South Africa,IOS App,192
-Spain,Safari,213
 Spain,Chrome,357
-Spain,Android App,490
-Spain,Microsoft Edge,207
 Spain,Mozilla Firefox,354
 Spain,Others,336
+Spain,Safari,213
 Spain,IOS App,275
+Spain,Android App,490
+Spain,Microsoft Edge,207
 Sri Lanka,Android App,198
-Sri Lanka,IOS App,96
 Sri Lanka,Chrome,105
+Sri Lanka,IOS App,96
+Sri Lanka,Mozilla Firefox,117
 Sri Lanka,Safari,87
 Sri Lanka,Microsoft Edge,63
 Sri Lanka,Others,126
-Sri Lanka,Mozilla Firefox,117
-Suriname,IOS App,255
-Suriname,Microsoft Edge,180
 Suriname,Safari,183
 Suriname,Mozilla Firefox,315
-Suriname,Android App,423
-Suriname,Others,306
 Suriname,Chrome,354
-Sweden,Others,336
-Sweden,IOS App,273
-Sweden,Chrome,357
-Sweden,Android App,478
-Sweden,Mozilla Firefox,324
+Suriname,Android App,423
+Suriname,IOS App,255
+Suriname,Others,306
+Suriname,Microsoft Edge,180
 Sweden,Safari,206
+Sweden,Chrome,357
+Sweden,Others,336
+Sweden,Mozilla Firefox,324
+Sweden,IOS App,273
+Sweden,Android App,478
 Sweden,Microsoft Edge,174
-Switzerland,IOS App,174
 Switzerland,Android App,344
+Switzerland,IOS App,174
 Switzerland,Chrome,255
-Switzerland,Others,222
-Switzerland,Microsoft Edge,132
 Switzerland,Safari,150
+Switzerland,Microsoft Edge,132
 Switzerland,Mozilla Firefox,235
-Thailand,Microsoft Edge,180
-Thailand,Chrome,307
+Switzerland,Others,222
 Thailand,Safari,192
-Thailand,IOS App,255
+Thailand,Chrome,307
 Thailand,Mozilla Firefox,305
 Thailand,Android App,444
+Thailand,IOS App,255
+Thailand,Microsoft Edge,180
 Thailand,Others,321
+Trinidad and Tobago,Android App,450
+Trinidad and Tobago,Others,303
+Trinidad and Tobago,Chrome,306
+Trinidad and Tobago,Mozilla Firefox,288
 Trinidad and Tobago,IOS App,237
 Trinidad and Tobago,Microsoft Edge,162
-Trinidad and Tobago,Others,303
-Trinidad and Tobago,Mozilla Firefox,288
-Trinidad and Tobago,Android App,450
 Trinidad and Tobago,Safari,198
-Trinidad and Tobago,Chrome,306
-Turkey,Safari,33
 Turkey,Chrome,102
-Turkey,Mozilla Firefox,96
 Turkey,Android App,78
-Turkey,Microsoft Edge,54
-Turkey,Others,66
 Turkey,IOS App,75
-Turkmenistan,Safari,207
-Turkmenistan,Android App,479
-Turkmenistan,IOS App,252
-Turkmenistan,Chrome,345
-Turkmenistan,Others,316
-Turkmenistan,Mozilla Firefox,318
+Turkey,Others,66
+Turkey,Mozilla Firefox,96
+Turkey,Microsoft Edge,54
+Turkey,Safari,33
 Turkmenistan,Microsoft Edge,171
+Turkmenistan,Android App,479
+Turkmenistan,Safari,207
+Turkmenistan,IOS App,252
+Turkmenistan,Others,316
+Turkmenistan,Chrome,345
+Turkmenistan,Mozilla Firefox,318
+Ukraine,Mozilla Firefox,305
+Ukraine,Microsoft Edge,180
 Ukraine,Others,321
 Ukraine,Android App,444
-Ukraine,Chrome,319
-Ukraine,IOS App,255
 Ukraine,Safari,192
-Ukraine,Microsoft Edge,180
-Ukraine,Mozilla Firefox,305
-United Arab Emirates,Mozilla Firefox,69
+Ukraine,IOS App,255
+Ukraine,Chrome,319
 United Arab Emirates,Others,63
+United Arab Emirates,Mozilla Firefox,69
+United Arab Emirates,IOS App,57
+United Arab Emirates,Microsoft Edge,36
+United Arab Emirates,Chrome,54
 United Arab Emirates,Safari,48
 United Arab Emirates,Android App,105
-United Arab Emirates,Microsoft Edge,36
-United Arab Emirates,IOS App,57
-United Arab Emirates,Chrome,54
-United Kingdom,Chrome,393
-United Kingdom,IOS App,273
 United Kingdom,Others,336
-United Kingdom,Safari,210
-United Kingdom,Mozilla Firefox,345
+United Kingdom,IOS App,273
+United Kingdom,Chrome,393
 United Kingdom,Microsoft Edge,189
 United Kingdom,Android App,486
-United States,Mozilla Firefox,336
-United States,Microsoft Edge,189
-United States,Others,354
-United States,Safari,210
-United States,IOS App,290
-United States,Android App,483
+United Kingdom,Mozilla Firefox,345
+United Kingdom,Safari,210
 United States,Chrome,369
-Uruguay,Safari,201
+United States,Mozilla Firefox,336
+United States,Safari,210
+United States,Android App,483
+United States,Others,354
+United States,Microsoft Edge,189
+United States,IOS App,290
 Uruguay,Microsoft Edge,180
+Uruguay,Others,318
 Uruguay,Mozilla Firefox,306
+Uruguay,Safari,201
 Uruguay,IOS App,237
 Uruguay,Chrome,306
-Uruguay,Others,318
 Uruguay,Android App,468
-Uzbekistan,Chrome,255
+Uzbekistan,Safari,159
+Uzbekistan,Mozilla Firefox,240
 Uzbekistan,Android App,357
+Uzbekistan,Chrome,255
 Uzbekistan,Others,240
 Uzbekistan,Microsoft Edge,135
 Uzbekistan,IOS App,198
-Uzbekistan,Mozilla Firefox,240
-Uzbekistan,Safari,159
